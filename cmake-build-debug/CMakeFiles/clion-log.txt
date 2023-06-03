@@ -1,0 +1,6 @@
+"G:\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=G:/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S F:\C\CProject\Teach -B F:\C\CProject\Teach\cmake-build-debug
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.25 or higher is required.  You are running version 3.23.2
+
+
+-- Configuring incomplete, errors occurred!
